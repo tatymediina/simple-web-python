@@ -1,23 +1,23 @@
-## SIMPLE WEB CON PYTHON
+# SIMPLE WEB CON PYTHON
 
-# Tecnologías utilizadas
+## Tecnologías utilizadas
 
 Python 
 Flask 
 
-#Clonar el repositorio:
+## Clonar el repositorio:
 
 `git clone https://github.com/tatymediina/simple-web-python`
 
-# Navegar al directorio del proyecto:
+## Navegar al directorio del proyecto:
 
 `cd simple-web-python`
 
-# Instalar las dependencias:
+## Instalar las dependencias:
 
 `pip install -r requirements.txt`
 
-# Actualización de dependencias
+## Actualización de dependencias
 
-Ejecutar el script principal:
+### Ejecutar el script principal:
 `python app.py`
